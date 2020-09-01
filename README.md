@@ -15,4 +15,4 @@ This file shows how to deal with missing values with Pandas specifically.
 Data visualization is a necessary skill for any business analyst and data analyst, even data scientist and data engineer. Even there are many visualization tools those are pretty esay to use and provide great performance, I would say Python visualization is still useful to learn. It makes the Python file more complete, and users can try matplotlib, seaborn, plotly, etc. with different objectives. 
 
 ### Time Series / NLP Topic Modeling / Gradient Boosting / PyTorch linear regression
-These files contains information in several specific topics and fields of data. This part is about to be added in the future. 
+These files contains information in several specific topics and fields of data. 
